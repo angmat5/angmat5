@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @angmat5
-- 👀 I’m interested in nothing for now 
-- 🌱 I’m currently learning Btech Cse
-- 💞️ I’m looking to collaborate on let's see
+- 🌱 I’m currently learning Java Programming, Ethical Hacking
+- 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me angelamathews02@gmail.com
 
 <!---
